@@ -1,67 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <Module>
-  <ModulePrefs title="SSS | XML"/>
+  <ModulePrefs title="SSS | XML Version"/>
   <Content type="html">
     <![CDATA[
-    <style>
-      body {
-        font-family: Arial, sans-serif;
-        background-color: #f4f4f4;
-        margin: 20px;
-      }
-      ul {
-        list-style-type: none;
-        padding: 0;
-      }
-      li {
-        background: #fff;
-        margin: 8px 0;
-        padding: 10px;
-        border-radius: 5px;
-        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-      }
-      a {
-        text-decoration: none;
-        color: #333;
-      }
-      a:hover {
-        color: #007BFF;
-      }
-    </style>
-    <ul>
-      <li><a href="StickRPG.html">StickRPG</a></li>
-      <li><a href="A_Small_World_Cup.html">A Small World Cup</a></li>
-      <li><a href="Roblox_Lifting_Simulator.html">Roblox Lifting Simulator</a></li>
-      <li><a href="Suika_Fruit.html">Suika Fruit</a></li>
-      <li><a href="Drift_Boss.html">Drift Boss</a></li>
-      <li><a href="Blade_Ball.html">Blade Ball</a></li>
-      <li><a href="Tunnel_Rush.html">Tunnel Rush</a></li>
-      <li><a href="Escape_Road.html">Escape Road</a></li>
-      <li><a href="Obby_Robby.html">Obby Robby</a></li>
-      <li><a href="MC_Mart.html">MC Mart</a></li>
-      <li><a href="Super_Car_Rush.html">Super Car Rush</a></li>
-      <li><a href="Short_Ride.html">Short Ride</a></li>
-      <li><a href="Death_Run_3D.html">Death Run 3D</a></li>
-      <li><a href="Omega_Nugget_Clicker.html">Omega Nugget Clicker</a></li>
-      <li><a href="Noob_Miner.html">Noob Miner</a></li>
-      <li><a href="Basket_Bros.html">Basket Bros</a></li>
-      <li><a href="Basketball_Stars.html">Basketball Stars</a></li>
-      <li><a href="Stickman_Parkour.html">Stickman Parkour</a></li>
-      <li><a href="Russian_Racing.html">Russian Racing</a></li>
-      <li><a href="Fishing_Io.html">Fishing Io</a></li>
-      <li><a href="Headphones_RNG.html">Headphones RNG</a></li>
-      <li><a href="Fire_Balls.html">Fire Balls</a></li>
-      <li><a href="Two_Ball_3D.html">Two Ball 3D</a></li>
-      <li><a href="ADOFAI.html">ADOFAI</a></li>
-      <li><a href="Melon_Playground.html">Melon Playground</a></li>
-      <li><a href="Zombies_Coming.html">Zombies Coming</a></li>
-      <li><a href="Mini_Tooth.html">Mini Tooth</a></li>
-      <li><a href="MR_Racer.html">MR Racer</a></li>
-      <li><a href="Every_Step_+1_Speed.html">Every Step +1 Speed</a></li>
-      <li><a href="Project_Laser_A_Mini_Brawl_Stars_Game.html">Project Laser: A Mini Brawl Stars Game</a></li>
-      <li><a href="Robby_Blocks.html">Robby Blocks</a></li>
-      <li><a href="Robby_Colors.html">Robby Colors</a></li>
-      <li><a href="Robby_Paper_Io.html">Robby Paper Io</a></li>
-    </ul>
+      <?xml version="1.0" encoding="UTF-8"?>
+      <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+      <html xmlns="http://www.w3.org/1999/xhtml">
+        <head>
+          <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+          <title>SSS | XML Detailed</title>
+          <style type="text/css">
+            body {
+              font-family: Arial, sans-serif;
+              background-color: #f4f4f4;
+              margin: 20px;
+            }
+            ul {
+              list-style-type: none;
+              padding: 0;
+            }
+            li {
+              background: #fff;
+              margin: 8px 0;
+              padding: 10px;
+              border-radius: 5px;
+              box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            }
+            a {
+              text-decoration: none;
+              color: #333;
+            }
+            a:hover {
+              color: #007BFF;
+            }
+          </style>
+        </head>
+        <body>
+          <ul>
+            <li><a href="StickRPG.html">StickRPG</a></li>
+            <li><a href="A_Small_World_Cup.html">A Small World Cup</a></li>
+            <li><a href="Roblox_Lifting_Simulator.html">Roblox Lifting Simulator</a></li>
+            <li><a href="Suika_Fruit.html">Suika Fruit</a></li>
+            <li><a href="Drift_Boss.html">Drift Boss</a></li>
+            <li><a href="Blade_Ball.html">Blade Ball</a></li>
+            <li><a href="Tunnel_Rush.html">Tunnel Rush</a></li>
+            <li><a href="Escape_Road.html">Escape Road</a></li>
+            <li><a href="Obby_Robby.html">Obby Robby</a></li>
+            <li><a href="MC_Mart.html">MC Mart</a></li>
+            <li><a href="Super_Car_Rush.html">Super Car Rush</a></li>
+            <li><a href="Short_Ride.html">Short Ride</a></li>
+            <li><a href="Death_Run_3D.html">Death Run 3D</a></li>
+            <li><a href="Omega_Nugget_Clicker.html">Omega Nugget Clicker</a></li>
+            <li><a href="Noob_Miner.html">Noob Miner</a></li>
+            <li><a href="Basket_Bros.html">Basket Bros</a></li>
+            <li><a href="Basketball_Stars.html">Basketball Stars</a></li>
+            <li><a href="Stickman_Parkour.html">Stickman Parkour</a></li>
+            <li><a href="Russian_Racing.html">Russian Racing</a></li>
+            <li><a href="Fishing_Io.html">Fishing Io</a></li>
+            <li><a href="Headphones_RNG.html">Headphones RNG</a></li>
+            <li><a href="Fire_Balls.html">Fire Balls</a></li>
+            <li><a href="Two_Ball_3D.html">Two Ball 3D</a></li>
+            <li><a href="ADOFAI.html">ADOFAI</a></li>
+            <li><a href="Melon_Playground.html">Melon Playground</a></li>
+            <li><a href="Zombies_Coming.html">Zombies Coming</a></li>
+            <li><a href="Mini_Tooth.html">Mini Tooth</a></li>
+            <li><a href="MR_Racer.html">MR Racer</a></li>
+            <li><a href="Every_Step_+1_Speed.html">Every Step +1 Speed</a></li>
+            <li><a href="Project_Laser_A_Mini_Brawl_Stars_Game.html">Project Laser: A Mini Brawl Stars Game</a></li>
+            <li><a href="Robby_Blocks.html">Robby Blocks</a></li>
+            <li><a href="Robby_Colors.html">Robby Colors</a></li>
+            <li><a href="Robby_Paper_Io.html">Robby Paper Io</a></li>
+          </ul>
+        </body>
+      </html>
     ]]>
   </Content>
 </Module>
