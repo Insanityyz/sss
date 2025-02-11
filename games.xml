@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Module>
-  <ModulePrefs title="SSS | XML Version"/>
+  <ModulePrefs title="Game List | XML Version"/>
   <Content type="html">
     <![CDATA[
       <?xml version="1.0" encoding="UTF-8"?>
@@ -9,45 +9,36 @@
       <html xmlns="http://www.w3.org/1999/xhtml">
         <head>
           <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
-          <title>SSS | XML Detailed</title>
+          <title>Scott's Secret Stuff | Games</title>
           <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Insanityyz/sss@e77cbc8/styles.css"/>
         </head>
         <body>
           <h1>Game List</h1>
           <ul>
-            <li><a href="StickRPG.html">StickRPG</a></li>
-            <li><a href="A_Small_World_Cup.html">A Small World Cup</a></li>
-            <li><a href="Roblox_Lifting_Simulator.html">Roblox Lifting Simulator</a></li>
-            <li><a href="Suika_Fruit.html">Suika Fruit</a></li>
-            <li><a href="Drift_Boss.html">Drift Boss</a></li>
-            <li><a href="Blade_Ball.html">Blade Ball</a></li>
-            <li><a href="Tunnel_Rush.html">Tunnel Rush</a></li>
-            <li><a href="Escape_Road.html">Escape Road</a></li>
-            <li><a href="Obby_Robby.html">Obby Robby</a></li>
-            <li><a href="MC_Mart.html">MC Mart</a></li>
-            <li><a href="Super_Car_Rush.html">Super Car Rush</a></li>
-            <li><a href="Short_Ride.html">Short Ride</a></li>
-            <li><a href="Death_Run_3D.html">Death Run 3D</a></li>
-            <li><a href="Omega_Nugget_Clicker.html">Omega Nugget Clicker</a></li>
-            <li><a href="Noob_Miner.html">Noob Miner</a></li>
-            <li><a href="Basket_Bros.html">Basket Bros</a></li>
-            <li><a href="Basketball_Stars.html">Basketball Stars</a></li>
-            <li><a href="Stickman_Parkour.html">Stickman Parkour</a></li>
-            <li><a href="Russian_Racing.html">Russian Racing</a></li>
-            <li><a href="Fishing_Io.html">Fishing Io</a></li>
-            <li><a href="Headphones_RNG.html">Headphones RNG</a></li>
-            <li><a href="Fire_Balls.html">Fire Balls</a></li>
-            <li><a href="Two_Ball_3D.html">Two Ball 3D</a></li>
-            <li><a href="ADOFAI.html">ADOFAI</a></li>
-            <li><a href="Melon_Playground.html">Melon Playground</a></li>
-            <li><a href="Zombies_Coming.html">Zombies Coming</a></li>
-            <li><a href="Mini_Tooth.html">Mini Tooth</a></li>
-            <li><a href="MR_Racer.html">MR Racer</a></li>
-            <li><a href="Every_Step_+1_Speed.html">Every Step +1 Speed</a></li>
-            <li><a href="Project_Laser_A_Mini_Brawl_Stars_Game.html">Project Laser: A Mini Brawl Stars Game</a></li>
-            <li><a href="Robby_Blocks.html">Robby Blocks</a></li>
-            <li><a href="Robby_Colors.html">Robby Colors</a></li>
-            <li><a href="Robby_Paper_Io.html">Robby Paper Io</a></li>
+            <li><a href="about:blank" onclick="window.open('https://t30uihm1pa-opensocial.googleusercontent.com/gadgets/ifr?url=https://groups.google.com/u/2/group/a-schools-7-x7/attach/10c47f2a6951ca/fooo.xml?part=0.1&view=1&authuser=2&container=ig')">War Of Knights</a></li>
+            <li><a href="about:blank" onclick="window.open('https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/sk1bx/89574567@71f165531792ae450fe0a522a52ba4e827344de2/sr3d.xml&container=ig')">Snow Rider 3D</a></li>
+            <li><a href="about:blank" onclick="window.open('https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/bobydob/JSEngine@99563e3bf6eb25323e3bd5af20dcd9a261b97991/build/m3m/m3m.xml&container=ig')">Moto X3M</a></li>
+            <li><a href="about:blank" onclick="window.open('https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/sk1bx/WebStarterkit@27197d685502953065e3a3259b6e34f5acb94e65/src/sp1.5.xml&container=ig')">Slope</a></li>
+            <li><a href="about:blank" onclick="window.open('https://75jfh73gd9hla64g-opensocial.googleusercontent.com/gadgets/ifr?url=https://googleusercontent.b-cdn.net/ovo/ovo.xml&container=ig')">0V0</a></li>
+            <li><a href="about:blank" onclick="window.open('https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/classroom-google-new/google.net@main/newgoogletrendd.xml&container=ig')">Basket Random</a></li>
+            <li><a href="about:blank" onclick="window.open('https://google-opensocial.googleusercontent.com/gadgets/ifr?quot&url=https://cdn.jsdelivr.net/gh/google-co-m/js@main/blf.xml&container=ig')">Bitlife (Lite)</a></li>
+            <li><a href="about:blank" onclick="window.open('https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/bobydob/JSEngine@0d9afabd2522344a702e1b692ad58039f6290b0d/build/c-c/cc.xml&container=ig')">Cookie Clicker</a></li>
+            <li><a href="about:blank" onclick="window.open('https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://738501629-461082748261058427.preview.editmysite.com/uploads/b/139890129-817510652323129407/files/drbo.xml&container=ig')">Drift Boss</a></li>
+            <li><a href="about:blank" onclick="window.open('https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/gertdoro/Toolkit@93a27eabbbe5eb626af5b9b7dd0926ac16810a41/Code/Java/hole.xml&container=ig')">Hole.Io</a></li>
+            <li><a href="about:blank" onclick="window.open('https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/sk1bx/ReactCasts@a4e6ea73f9e1f60e36fc52c2e092d15dd707d7a0/dropdown/src/justfall.xml&container=ig')">Just Fall.Io</a></li>
+            <li><a href="about:blank" onclick="window.open('https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://218463058-163927403382736103.preview.editmysite.com/uploads/b/139890129-297434511671085883/files/mm.xml&container=ig')">Monkey Mart</a></li>
+            <li><a href="about:blank" onclick="window.open('https://h0jokl1egt0fd4oc8qv3j0tltl9jbqhn-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://649025137-174029463385024710.preview.editmysite.com/uploads/b/139890129-767696982876512205/files/mx3mpp.xml&container=enterprise&view=default&lang=en')">Moto X3M 5 Pool Party</a></li>
+            <li><a href="about:blank" onclick="window.open('https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://318573026-162284027483016384.preview.editmysite.com/uploads/b/139890129-642750312748978757/files/mx3msl.xml&container=ig')">Moto X3M 6 Spooky Land</a></li>
+            <li><a href="about:blank" onclick="window.open('https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://112024093-351892247949035127.preview.editmysite.com/uploads/b/7547235-238727784559188382/files/rec.xml&container=ig')">Recoil</a></li>
+            <li><a href="about:blank" onclick="window.open('https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://590384729-104728463944275026.preview.editmysite.com/uploads/b/139890129-446136497302390429/files/ting.xml&container=ig')">There is No Game</a></li>
+            <li><a href="about:blank" onclick="window.open('https://cdn.jsdelivr.net/gh/sk1bx/element@1dd0b99d2004b84795f2745a5eb3468deb1c38a4/ts2.xml&container=ig')">Time Shooter 2</a></li>
+            <li><a href="about:blank" onclick="window.open('https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/sk1bx/version@0d8fb9c7430567ed0900902593eee6ba2ba8d297/ts3.xml&container=ig')">Time Shooter 3: SWAT</a></li>
+            <li><a href="about:blank" onclick="window.open('https://d21u3ic0kp9e91.cloudfront.net/dronesport3/index.html')">Drone Sport</a></li>
+            <li><a href="about:blank" onclick="window.open('https://d21u3ic0kp9e91.cloudfront.net/elasticman/0/index.html')">Elastic Man</a></li>
+            <li><a href="about:blank" onclick="window.open('https://sandtable-8d0f7.firebaseapp.com/#')">SandTable</a></li>
+            <li><a href="about:blank" onclick="window.open('https://jblaha.art/sketchbook/0.4/')">Sketchbook 3D</a></li>
+            <li><a href="about:blank" onclick="window.open('https://www.michaelbromley.co.uk/experiments/css-space-shooter/')">Space Shooter</a></li>
+            <li><a href="about:blank" onclick="window.open('https://alteredqualia.com/cubeout/')">CubeOut (3D Tetris)</a></li>
           </ul>
         </body>
       </html>
